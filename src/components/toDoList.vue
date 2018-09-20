@@ -51,18 +51,23 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h3 {
+h1 {
+  font-size: 30px;
+}
+h2 {
   margin: 40px 0 0;
+  font-size: 35px;
 }
 ul {
   margin: 0 auto;
-  width: 35%;
+  width: 30%;
   list-style-type: none;
   padding: 0;
 }
 li {
   display: block;
   margin: 10px;
+  font-size: 25px;
   text-align: left;
 }
 </style>

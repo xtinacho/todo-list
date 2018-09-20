@@ -24,6 +24,7 @@ html {
   font-family: 'Jua', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding-bottom: 15px;
   text-align: center;
   color: #332929;
   margin-top: 60px;
